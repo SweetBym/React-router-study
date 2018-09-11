@@ -7,7 +7,9 @@ const NavBar  = ()=>(
         <div>
            <NavLink exact to='/' >Jspanga</NavLink>|&nbsp;
            <NavLink to='/Jspangb'>Jspangb</NavLink>|&nbsp;
-           <NavLink to='/Jspangc' >Jspangc</NavLink>
+           <NavLink to='/Jspangc' >Jspangc</NavLink>|&nbsp;
+           <NavLink to='/JspangD' >404</NavLink>|&nbsp;
+           
         </div>
        
     </div>
